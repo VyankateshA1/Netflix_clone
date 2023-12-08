@@ -14,5 +14,15 @@ This project is a simple attempt to recreate the first responsive page of the Ne
 
 - HTML
 - CSS
+### Screenshot
+
+
+<kbd>![img1](img1.png)</kbd>
+
+<kbd>![img1](img2.png)</kbd>
+
+### Mobile View
+<kbd>![img1](vyankatesha1.github.io_Netflix_clone_iPhone 14 Pro Max.png)</kbd>
+
 
 
